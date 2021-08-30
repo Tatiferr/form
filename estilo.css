@@ -1,0 +1,15 @@
+input:invalid {
+    border: 3px solid red;
+}
+  
+input:valid {
+    border: 2px solid black;
+}
+
+body{
+  background-color: #495fdf;
+}
+
+div.conteudo{
+    background-color: rgb(166, 200, 255);
+}
